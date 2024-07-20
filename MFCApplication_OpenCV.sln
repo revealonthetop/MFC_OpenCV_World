@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFCApplication_OpenCV", "MFCApplication_OpenCV.vcxproj", "{FCFF8612-4BFA-459F-B28C-9119DFB86143}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCFF8612-4BFA-459F-B28C-9119DFB86143}.Debug|x64.ActiveCfg = Debug|x64
+		{FCFF8612-4BFA-459F-B28C-9119DFB86143}.Debug|x64.Build.0 = Debug|x64
+		{FCFF8612-4BFA-459F-B28C-9119DFB86143}.Debug|x86.ActiveCfg = Debug|Win32
+		{FCFF8612-4BFA-459F-B28C-9119DFB86143}.Debug|x86.Build.0 = Debug|Win32
+		{FCFF8612-4BFA-459F-B28C-9119DFB86143}.Release|x64.ActiveCfg = Release|x64
+		{FCFF8612-4BFA-459F-B28C-9119DFB86143}.Release|x64.Build.0 = Release|x64
+		{FCFF8612-4BFA-459F-B28C-9119DFB86143}.Release|x86.ActiveCfg = Release|Win32
+		{FCFF8612-4BFA-459F-B28C-9119DFB86143}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7627515-8EA2-4CC1-AC65-3305C88249B5}
+	EndGlobalSection
+EndGlobal
