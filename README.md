@@ -1,5 +1,4 @@
 ![스크린샷 2024-07-21 010633](https://github.com/user-attachments/assets/8f5a5260-2083-435c-b50b-3a315cd10081)
-![스크린샷 2024-07-21 004810](https://github.com/user-attachments/assets/2abc9401-981c-475c-920a-e5456acc0b88)
 ![스크린샷 2024-07-21 004747](https://github.com/user-attachments/assets/f3a9ce20-f230-40e6-a83f-a24c9f9be045)
 ![스크린샷 2024-07-21 004652](https://github.com/user-attachments/assets/4e2fe8eb-9cf1-458a-988a-1322ffb038bb)
 # MFC OpenCV 애플리케이션
